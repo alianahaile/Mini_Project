@@ -1,0 +1,46 @@
+% docker run --rm -it 
+% docker rmi 
+
+% docker ps
+
+% curl
+
+docker ps (to get a list of running containers)
+
+pull (
+
+Docker hub to find the official images
+
+docker images
+docker image ls
+
+
+
+structure of a dockerfile
+key words for docker on in caps
+
+FROM
+WORKDIR
+COPY
+RUN
+EXPOSE
+ENTRYPOINT
+
+
+Docker Push
+Port Binding
+% docker run -d -p 
+
+
+python -m pip install pymysql
+
+
+but html and css are needed to. 
+BUT they aren't programing languages
+just markup and styling languages
+
+source ./activate
+
+
+
+
