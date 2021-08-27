@@ -1,5 +1,0 @@
-SELECT name, cust_name, salesman.city
-FROM salesman
-JOIN customer ON customer.city = salesman.city
-
-
